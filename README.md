@@ -40,7 +40,12 @@ innovation-hacks-task-2
 │   ├── projects.js
 │   └── tasks.js
 │
+├── create-user.png
+├── create-project.png
+├── update-task.png
+├── validation.png
 ├── .env
+├── .env.example
 ├── .gitignore
 ├── package.json
 ├── package-lock.json
